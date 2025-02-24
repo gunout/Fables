@@ -1,6 +1,9 @@
 # Fables
 Example de Fables ascii .
 
-  python fable.py 
+# RUN 
 
-  PS : Le corbeau et le Renard .
+    python fable.py 
+
+  
+  PS : Le corbeau et le Renard . ( Fable de la Fontaine ) 
