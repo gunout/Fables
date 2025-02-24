@@ -17,7 +17,12 @@ Troisieme Version .
 
     python fableV3.py
 
+  # FableV4.py 
+Quatrieme Version .
 
+    python fableV4.py
+
+    
  PS : Le corbeau et le Renard . ( Fable de la Fontaine ) 
 
 
